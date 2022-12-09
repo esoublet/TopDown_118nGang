@@ -24,3 +24,6 @@ C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-g
 C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\bin\Debug\ru\Car Racing Game MOO ICT.resources.dll
 C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.Form1.ru.resources
 C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\ru\Car Racing Game MOO ICT.resources.dll
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.skin.resources
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.skin.es.resources
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.skin.ru.resources
