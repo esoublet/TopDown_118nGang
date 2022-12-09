@@ -60,7 +60,7 @@ namespace Car_Racing_Game_MOO_ICT
         private void gameTimerEvent(object sender, EventArgs e)
         {
 
-            txtScore.Text = "Score: " + score;
+            txtScore.Text = skin.scores + score;
             score++;
 
 
