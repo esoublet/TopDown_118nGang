@@ -78,6 +78,7 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="skin.es.resx" />
     <EmbeddedResource Include="skin.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>skin.Designer.cs</LastGenOutput>
