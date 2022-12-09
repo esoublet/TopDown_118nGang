@@ -7,3 +7,17 @@ C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Car Racing Game MOO ICT\Ca
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Car Racing Game MOO ICT\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.csproj.GenerateResource.cache
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Car Racing Game MOO ICT\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.exe
 C:\Users\MOOICT\Documents\Visual Studio 2019\Projects\Car Racing Game MOO ICT\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.pdb
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\bin\Debug\Car Racing Game MOO ICT.exe.config
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\bin\Debug\Car Racing Game MOO ICT.exe
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\bin\Debug\Car Racing Game MOO ICT.pdb
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\bin\Debug\es\Car Racing Game MOO ICT.resources.dll
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.csproj.AssemblyReference.cache
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.csproj.SuggestedBindingRedirects.cache
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.Form1.resources
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.Properties.Resources.resources
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car_Racing_Game_MOO_ICT.Form1.es.resources
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.csproj.GenerateResource.cache
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.csproj.CoreCompileInputs.cache
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\es\Car Racing Game MOO ICT.resources.dll
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.exe
+C:\Users\afish\OneDrive\Desktop\carRacing\TopDown_i18nGang\Top-Down-Car-Racing-game-in-windows-form-main\Car Racing Game MOO ICT\obj\Debug\Car Racing Game MOO ICT.pdb
