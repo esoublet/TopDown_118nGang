@@ -56,7 +56,6 @@
             // 
             // panel1
             // 
-            resources.ApplyResources(this.panel1, "panel1");
             this.panel1.BackColor = System.Drawing.Color.Black;
             this.panel1.Controls.Add(this.AI2);
             this.panel1.Controls.Add(this.AI1);
@@ -65,56 +64,57 @@
             this.panel1.Controls.Add(this.player);
             this.panel1.Controls.Add(this.roadTrack2);
             this.panel1.Controls.Add(this.roadTrack1);
+            resources.ApplyResources(this.panel1, "panel1");
             this.panel1.Name = "panel1";
             // 
             // AI2
             // 
-            resources.ApplyResources(this.AI2, "AI2");
             this.AI2.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.carGrey;
+            resources.ApplyResources(this.AI2, "AI2");
             this.AI2.Name = "AI2";
             this.AI2.TabStop = false;
             this.AI2.Tag = "carRight";
             // 
             // AI1
             // 
-            resources.ApplyResources(this.AI1, "AI1");
             this.AI1.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.carGreen;
+            resources.ApplyResources(this.AI1, "AI1");
             this.AI1.Name = "AI1";
             this.AI1.TabStop = false;
             this.AI1.Tag = "carLeft";
             // 
             // award
             // 
-            resources.ApplyResources(this.award, "award");
             this.award.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.bronze;
+            resources.ApplyResources(this.award, "award");
             this.award.Name = "award";
             this.award.TabStop = false;
             // 
             // explosion
             // 
-            resources.ApplyResources(this.explosion, "explosion");
             this.explosion.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.explosion;
+            resources.ApplyResources(this.explosion, "explosion");
             this.explosion.Name = "explosion";
             this.explosion.TabStop = false;
             // 
             // player
             // 
-            resources.ApplyResources(this.player, "player");
             this.player.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.carYellow;
+            resources.ApplyResources(this.player, "player");
             this.player.Name = "player";
             this.player.TabStop = false;
             // 
             // roadTrack2
             // 
-            resources.ApplyResources(this.roadTrack2, "roadTrack2");
             this.roadTrack2.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.roadTrack;
+            resources.ApplyResources(this.roadTrack2, "roadTrack2");
             this.roadTrack2.Name = "roadTrack2";
             this.roadTrack2.TabStop = false;
             // 
             // roadTrack1
             // 
-            resources.ApplyResources(this.roadTrack1, "roadTrack1");
             this.roadTrack1.Image = global::Car_Racing_Game_MOO_ICT.Properties.Resources.roadTrack;
+            resources.ApplyResources(this.roadTrack1, "roadTrack1");
             this.roadTrack1.Name = "roadTrack1";
             this.roadTrack1.TabStop = false;
             // 
@@ -142,12 +142,12 @@
             // 
             // comboBox1
             // 
-            resources.ApplyResources(this.comboBox1, "comboBox1");
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
             resources.GetString("comboBox1.Items"),
             resources.GetString("comboBox1.Items1"),
             resources.GetString("comboBox1.Items2")});
+            resources.ApplyResources(this.comboBox1, "comboBox1");
             this.comboBox1.Name = "comboBox1";
             // 
             // label1
