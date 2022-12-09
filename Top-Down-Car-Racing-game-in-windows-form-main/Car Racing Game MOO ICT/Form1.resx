@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="explosion.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>AutoSize</value>
@@ -127,10 +124,10 @@
   <data name="&gt;&gt;award.Name" xml:space="preserve">
     <value>award</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="AI2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 100</value>
+  <data name="&gt;&gt;label2.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
     <value>18, 975</value>
   </data>
@@ -153,9 +150,6 @@
   <data name="&gt;&gt;roadTrack1.Name" xml:space="preserve">
     <value>roadTrack1</value>
   </data>
-  <data name="AI1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 101</value>
-  </data>
   <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
@@ -164,12 +158,6 @@
   </data>
   <data name="panel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
-  </data>
-  <data name="comboBox1.Items1" xml:space="preserve">
-    <value>español</value>
-  </data>
-  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
   </data>
   <data name="explosion.Size" type="System.Drawing.Size, System.Drawing">
     <value>64, 64</value>
@@ -195,11 +183,14 @@
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
   </data>
+  <data name="label2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>9, 20</value>
   </data>
   <data name="&gt;&gt;AI1.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -213,14 +204,17 @@
   <data name="roadTrack1.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, -798</value>
   </data>
-  <data name="&gt;&gt;btnStart.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>157, 28</value>
+  </data>
+  <data name="player.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 99</value>
   </data>
   <data name="comboBox1.Items2" xml:space="preserve">
     <value>pусский</value>
   </data>
-  <data name="txtScore.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
+  <data name="explosion.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 5, 4, 5</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
     <value>18, 18</value>
@@ -239,17 +233,17 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8pt, style=Bold</value>
   </data>
-  <data name="player.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 99</value>
+  <data name="award.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 318</value>
   </data>
-  <data name="&gt;&gt;award.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="roadTrack1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>712, 798</value>
   </data>
   <data name="player.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
-  </data>
-  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
-    <value>panel1</value>
   </data>
   <data name="&gt;&gt;roadTrack1.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -262,6 +256,12 @@ Don't hit any other cars in the game and survive as long as you can</value>
   </data>
   <data name="&gt;&gt;roadTrack2.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="txtScore.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
   </data>
   <data name="&gt;&gt;award.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -278,20 +278,23 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
     <value>94, 20</value>
   </data>
+  <data name="txtScore.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
   </data>
-  <data name="&gt;&gt;roadTrack2.ZOrder" xml:space="preserve">
-    <value>5</value>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="explosion.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 5, 4, 5</value>
-  </data>
-  <data name="award.Location" type="System.Drawing.Point, System.Drawing">
-    <value>174, 318</value>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Car Racing Game MOO ICT</value>
   </data>
   <data name="award.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>4, 5, 4, 5</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Name" xml:space="preserve">
+    <value>btnStart</value>
   </data>
   <data name="&gt;&gt;roadTrack1.ZOrder" xml:space="preserve">
     <value>6</value>
@@ -311,23 +314,20 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="&gt;&gt;award.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="&gt;&gt;AI2.Name" xml:space="preserve">
-    <value>AI2</value>
-  </data>
   <data name="label2.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
   </data>
-  <data name="&gt;&gt;gameTimer.Name" xml:space="preserve">
-    <value>gameTimer</value>
-  </data>
-  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>579, 908</value>
+  <data name="txtScore.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
   </data>
   <data name="comboBox1.Items" xml:space="preserve">
     <value>English</value>
   </data>
-  <data name="roadTrack2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
+  <data name="AI2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 100</value>
+  </data>
+  <data name="&gt;&gt;btnStart.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="roadTrack2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>StretchImage</value>
@@ -335,14 +335,11 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="&gt;&gt;AI1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;AI2.Name" xml:space="preserve">
+    <value>AI2</value>
   </data>
   <data name="&gt;&gt;AI1.Name" xml:space="preserve">
     <value>AI1</value>
-  </data>
-  <data name="btnStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 5, 4, 5</value>
   </data>
   <data name="txtScore.Size" type="System.Drawing.Size, System.Drawing">
     <value>712, 57</value>
@@ -362,8 +359,8 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="btnStart.Size" type="System.Drawing.Size, System.Drawing">
     <value>148, 63</value>
   </data>
-  <data name="txtScore.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
   </data>
   <data name="AI2.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>AutoSize</value>
@@ -377,8 +374,8 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="roadTrack2.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
   </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>9, 20</value>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>579, 908</value>
   </data>
   <data name="AI1.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -386,17 +383,17 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
-  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
+  <data name="AI1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 101</value>
   </data>
-  <data name="label2.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
+  <data name="&gt;&gt;roadTrack2.ZOrder" xml:space="preserve">
+    <value>5</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
     <value>575, 879</value>
   </data>
-  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="txtScore.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 15.75pt, style=Bold</value>
@@ -407,11 +404,8 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="roadTrack1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="player.Location" type="System.Drawing.Point, System.Drawing">
-    <value>322, 618</value>
-  </data>
-  <data name="AI2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 5, 4, 5</value>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;AI1.Parent" xml:space="preserve">
     <value>panel1</value>
@@ -419,11 +413,14 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="&gt;&gt;roadTrack2.Name" xml:space="preserve">
-    <value>roadTrack2</value>
+  <data name="&gt;&gt;player.ZOrder" xml:space="preserve">
+    <value>4</value>
   </data>
-  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;gameTimer.Name" xml:space="preserve">
+    <value>gameTimer</value>
+  </data>
+  <data name="&gt;&gt;label2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>
@@ -440,11 +437,11 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="&gt;&gt;roadTrack1.Parent" xml:space="preserve">
     <value>panel1</value>
   </data>
-  <data name="&gt;&gt;explosion.Name" xml:space="preserve">
-    <value>explosion</value>
+  <data name="&gt;&gt;roadTrack2.Name" xml:space="preserve">
+    <value>roadTrack2</value>
   </data>
-  <data name="roadTrack1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>712, 798</value>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>español</value>
   </data>
   <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
     <value>5</value>
@@ -452,11 +449,11 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="btnStart.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="btnStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 5, 4, 5</value>
   </data>
-  <data name="&gt;&gt;label2.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
   <data name="&gt;&gt;txtScore.Parent" xml:space="preserve">
     <value>$this</value>
@@ -464,20 +461,23 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="explosion.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
+  <data name="AI2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 5, 4, 5</value>
+  </data>
   <data name="txtScore.Location" type="System.Drawing.Point, System.Drawing">
     <value>18, 822</value>
   </data>
-  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 12pt, style=Bold</value>
+  <data name="player.Location" type="System.Drawing.Point, System.Drawing">
+    <value>322, 618</value>
   </data>
-  <data name="&gt;&gt;player.ZOrder" xml:space="preserve">
-    <value>4</value>
+  <data name="&gt;&gt;AI1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="award.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>AutoSize</value>
   </data>
-  <data name="txtScore.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+  <data name="&gt;&gt;explosion.Name" xml:space="preserve">
+    <value>explosion</value>
   </data>
   <data name="&gt;&gt;explosion.ZOrder" xml:space="preserve">
     <value>3</value>
@@ -485,11 +485,11 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
     <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Car Racing Game MOO ICT</value>
+  <data name="roadTrack2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
-  <data name="&gt;&gt;btnStart.Name" xml:space="preserve">
-    <value>btnStart</value>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
   </data>
   <data name="&gt;&gt;AI2.Type" xml:space="preserve">
     <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -512,16 +512,13 @@ Don't hit any other cars in the game and survive as long as you can</value>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
     <value>712, 798</value>
   </data>
-  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>157, 28</value>
+  <data name="&gt;&gt;award.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <metadata name="gameTimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
-  </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>ru</value>
   </metadata>
 </root>
