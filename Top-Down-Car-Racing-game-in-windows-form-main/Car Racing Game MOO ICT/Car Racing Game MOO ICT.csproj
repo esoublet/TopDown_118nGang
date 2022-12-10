@@ -78,6 +78,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>images.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <EmbeddedResource Include="images.ru.resx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -160,6 +161,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Gold_Es.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bronze_ Ru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Silver_Ru.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold_Ru.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
