@@ -73,6 +73,7 @@
     <EmbeddedResource Include="Form1.ru.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="images.es.resx" />
     <EmbeddedResource Include="images.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>images.Designer.cs</LastGenOutput>
@@ -150,6 +151,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\TruckWhite.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bronze_Es.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Silver_Es.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gold_Es.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
