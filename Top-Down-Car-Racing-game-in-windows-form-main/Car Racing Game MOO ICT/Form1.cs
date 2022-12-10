@@ -106,20 +106,20 @@ namespace Car_Racing_Game_MOO_ICT
 
             if (score > 40 && score < 500)
             {
-                award.Image = Properties.Resources.bronze;
+                award.Image = images.bronzee;
             }
 
 
             if (score > 500 && score < 2000)
             {
-                award.Image = Properties.Resources.silver;
+                award.Image = images.silverr;
                 roadSpeed = 20;
                 trafficSpeed = 22;
             }
 
             if (score > 2000)
             {
-                award.Image = Properties.Resources.gold;
+                award.Image = images.goldd;
                 trafficSpeed = 27;
                 roadSpeed = 25;
             }
@@ -206,7 +206,7 @@ namespace Car_Racing_Game_MOO_ICT
             goleft = false;
             goright = false;
             score = 0;
-            award.Image = Properties.Resources.bronze;
+            award.Image = images.bronzee;
 
             roadSpeed = 12;
             trafficSpeed = 15;
@@ -242,10 +242,8 @@ namespace Car_Racing_Game_MOO_ICT
                     Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("ru");
                     break;
             }
-
             this.Controls.Clear();
             InitializeComponent();
-
         }
 
         private void award_Click(object sender, EventArgs e)
