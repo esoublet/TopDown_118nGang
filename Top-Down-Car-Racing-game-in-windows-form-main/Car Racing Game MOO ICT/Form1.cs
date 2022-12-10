@@ -248,6 +248,11 @@ namespace Car_Racing_Game_MOO_ICT
 
         }
 
+        private void award_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void playSound()
         {
             System.Media.SoundPlayer playCrash = new System.Media.SoundPlayer(Properties.Resources.hit);

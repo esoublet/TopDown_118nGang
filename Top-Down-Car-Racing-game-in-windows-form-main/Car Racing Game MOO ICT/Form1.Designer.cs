@@ -89,6 +89,7 @@
             resources.ApplyResources(this.award, "award");
             this.award.Name = "award";
             this.award.TabStop = false;
+            this.award.Click += new System.EventHandler(this.award_Click);
             // 
             // explosion
             // 
