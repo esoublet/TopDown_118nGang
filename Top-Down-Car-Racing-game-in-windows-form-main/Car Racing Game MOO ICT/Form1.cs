@@ -181,6 +181,9 @@ namespace Car_Racing_Game_MOO_ICT
 
         private void gameOver()
         {
+            // Enabling the language switcher when the game ends (i.e., when the car crashes)
+            langSwitcher.Enabled = true;
+
             playSound();
             gameTimer.Stop();
             explosion.Visible = true;
@@ -200,6 +203,8 @@ namespace Car_Racing_Game_MOO_ICT
 
         private void ResetGame()
         {
+            // Disabling the language switcher when the game starts so that the game works properly
+            langSwitcher.Enabled = false;
 
             btnStart.Enabled = false;
             explosion.Visible = false;
@@ -231,7 +236,7 @@ namespace Car_Racing_Game_MOO_ICT
 
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            switch (comboBox1.SelectedIndex)
+            switch (langSwitcher.SelectedIndex)
             {
                 case 0:
                     Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");

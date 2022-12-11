@@ -42,7 +42,7 @@
             this.txtScore = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.gameTimer = new System.Windows.Forms.Timer(this.components);
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.langSwitcher = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.AI2)).BeginInit();
@@ -141,16 +141,16 @@
             this.gameTimer.Interval = 20;
             this.gameTimer.Tick += new System.EventHandler(this.gameTimerEvent);
             // 
-            // comboBox1
+            // langSwitcher
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Items.AddRange(new object[] {
-            resources.GetString("comboBox1.Items"),
-            resources.GetString("comboBox1.Items1"),
-            resources.GetString("comboBox1.Items2")});
-            resources.ApplyResources(this.comboBox1, "comboBox1");
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
+            this.langSwitcher.FormattingEnabled = true;
+            this.langSwitcher.Items.AddRange(new object[] {
+            resources.GetString("langSwitcher.Items"),
+            resources.GetString("langSwitcher.Items1"),
+            resources.GetString("langSwitcher.Items2")});
+            resources.ApplyResources(this.langSwitcher, "langSwitcher");
+            this.langSwitcher.Name = "langSwitcher";
+            this.langSwitcher.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // label1
             // 
@@ -162,7 +162,7 @@
             resources.ApplyResources(this, "$this");
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.comboBox1);
+            this.Controls.Add(this.langSwitcher);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.txtScore);
             this.Controls.Add(this.btnStart);
@@ -198,7 +198,7 @@
         private System.Windows.Forms.PictureBox explosion;
         private System.Windows.Forms.PictureBox player;
         private System.Windows.Forms.Timer gameTimer;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox langSwitcher;
         private System.Windows.Forms.Label label1;
     }
 }
