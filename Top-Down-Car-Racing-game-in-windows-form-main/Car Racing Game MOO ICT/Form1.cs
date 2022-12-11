@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Globalization;
 
 namespace Car_Racing_Game_MOO_ICT
 {
@@ -233,13 +234,13 @@ namespace Car_Racing_Game_MOO_ICT
             switch (comboBox1.SelectedIndex)
             {
                 case 0:
-                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("en");
+                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");
                     break;
                 case 1:
-                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("es");
+                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("es");
                     break;
                 case 2:
-                    Thread.CurrentThread.CurrentUICulture = new System.Globalization.CultureInfo("ru");
+                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("ru");
                     break;
             }
             this.Controls.Clear();
