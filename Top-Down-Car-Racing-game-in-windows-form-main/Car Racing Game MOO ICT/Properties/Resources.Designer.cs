@@ -75,7 +75,7 @@ namespace Car_Racing_Game_MOO_ICT.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap bronze {
             get {
-                object obj = ResourceManager.GetObject("bronze", resourceCulture);
+                object obj = ResourceManager.GetObject("bronzee", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -155,7 +155,7 @@ namespace Car_Racing_Game_MOO_ICT.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap gold {
             get {
-                object obj = ResourceManager.GetObject("gold", resourceCulture);
+                object obj = ResourceManager.GetObject("goldd", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -184,7 +184,7 @@ namespace Car_Racing_Game_MOO_ICT.Properties {
         /// </summary>
         internal static System.Drawing.Bitmap silver {
             get {
-                object obj = ResourceManager.GetObject("silver", resourceCulture);
+                object obj = ResourceManager.GetObject("silverr", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
